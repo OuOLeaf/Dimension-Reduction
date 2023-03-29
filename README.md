@@ -1,3 +1,4 @@
-# PCA_and_FA
- Principal Component Analysis and Factor Analysis<br>
- In Analysis.pdf
+# Students' Learning Preformance Using Factor Analysis and Principal Component Analysis
+- Result in Students' learning performance.pdf
+# Wine and Breast Cancer Data Using Principal Component Analysis
+- 
