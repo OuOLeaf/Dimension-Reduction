@@ -1,4 +1,7 @@
-# Students' Learning Preformance Using Factor Analysis and Principal Component Analysis
+# Factor Analysis and Principal Component Analysis
+- Students' Learning Preformance
 - Result in Students' learning performance.pdf
-# Wine and Breast Cancer Data Using Principal Component Analysis
-- 
+
+# Principal Component Analysis
+- Wine and Breast Cancer Data
+- https://ouoleaf.github.io/Dimension-Reduction/
